@@ -23,20 +23,20 @@ export default function App() {
     {
       question: "A mãe de Mary teve quatro filhos. Abril, Maio e Junho foram os três primeiros. Qual o nome da 4ª criança?",
       options: [
-        "Julho",
-        "Março",
-        "Julha",
-        "Mary",
+        "Julho ",
+        "Março ",
+        "Julha ",
+        "Mary ",
       ],
       correctAnswer: 3,
     },
     {
       question: "Quantas patas têm um casal de patos?",
       options: [
-        "5",
-        "3",
-        "2",
-        "4",
+        "5 ",
+        "3 ",
+        "2 ",
+        "4 ",
       ],
       correctAnswer: 0,
     },
@@ -44,10 +44,10 @@ export default function App() {
     {
       question: "O que sobe uma chaminé para baixo, mas não desce uma chaminé para cima?",
       options: [
-        "Fumaça",
-        "Guarda-chuva",
-        "Papel",
-        "Baloão de ar-quente",
+        "Fumaça ",
+        "Guarda-chuva ",
+        "Papel ",
+        "Baloão de ar-quente ",
       ],
       correctAnswer: 1,
     },
@@ -55,10 +55,10 @@ export default function App() {
     {
       question: "O que pode correr, mas nunca anda; tem leito, mas nunca dorme; nasce, mas não morre?",
       options: [
-        "Rio",
-        "Vento",
-        "Sonho",
-        "Estrada",
+        "Rio ",
+        "Vento ",
+        "Sonho ",
+        "Estrada ",
       ],
       correctAnswer: 0,
     },
